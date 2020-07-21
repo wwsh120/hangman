@@ -1,7 +1,7 @@
 import random
 from tkinter import *
 
-a = 1
+a = 2
 
 infile = open("C:\\Users\\KingGOD\\Documents\\hangman\\hangman.txt", "r")
 
