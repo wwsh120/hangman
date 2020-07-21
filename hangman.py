@@ -1,6 +1,8 @@
 import random
 from tkinter import *
 
+a = 1
+
 infile = open("C:\\Users\\KingGOD\\Documents\\hangman\\hangman.txt", "r")
 
 line = infile.read()
